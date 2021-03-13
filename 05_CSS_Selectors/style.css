@@ -1,0 +1,30 @@
+h2 { 
+    color:brown;
+    background-color: palevioletred;
+    text-align: center;
+}
+
+button {
+    color:#ff00ff;
+    background-color: rgb(255, 165, 0)
+}
+
+p {
+    text-align: left;
+    font-style: oblique;
+    font-family: fantasy, Arial, sans-serif;
+
+}
+
+h1 {
+    font-weight: bolder;
+    text-decoration: plum underline;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
